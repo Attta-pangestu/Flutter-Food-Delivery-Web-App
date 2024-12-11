@@ -1,0 +1,1 @@
+ /home/user/Flutter-Food-Delivery-Web-App/.dart_tool/flutter_build/e631becbcfa1b549a9224c355eedcda8/native_assets.yaml: 
